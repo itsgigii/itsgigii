@@ -12,7 +12,7 @@ I love solving problems, building creative projects, and learning how technology
 - 💻 Currently learning **HTML**, **CSS**, and **JavaScript**  
 - 🎯 Working on improving my web design and front-end development skills  
 - 🌍 Languages I speak: English, Swahili, and a bit of code 😉  
-- 📚 Studying **Computer Science** at one of Kenya’s top universities  
+- 📚 Studying **Computer Science** 
 - ⚡ Fun fact: I can debug for hours, but I lose patience waiting for my food delivery!  
 
 ---
